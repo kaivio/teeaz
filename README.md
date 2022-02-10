@@ -1,16 +1,17 @@
-### Hi there 👋
+## 正在在做的事
+### 研究OCR
+手头有一个风格统一的视频集，上面是一些统计数据，
+想要提取出来做成静态页面以便查阅，用的原始的方法，没有用什么框架，
+路很坎坷，但愿能撑下去。
 
-<!--
-**teeaz/teeaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 想要做的事
+想做的实在是太多了，但时间精力始终不够，至今为之，有些淡然了，
+不过还是希望能坚持下去
+- 密码库管理程序
+- 个人笔记站
+- 配置文件管理程序
+- 研究docker
+- 贡献一个成熟的作品
+- 还有更多...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
