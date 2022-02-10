@@ -1,3 +1,6 @@
+ [tips](tips.md)
+｜ [exp](exp.md)
+｜ [think](think.md)
 ## 正在在做的事
 ### 研究OCR
 手头有一个风格统一的视频集，上面是一些统计数据，
